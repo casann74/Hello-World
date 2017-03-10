@@ -1,1 +1,1 @@
-# Hello-World
+# My name is Candy Smith. I love web-development as a hobby. I have done programming in the past, but it has been a long time. I am pretty good with HTML and CSS, but it has been so long since I've done any real programming that it's like starting over. That is why I put that I have no programming experience. 
